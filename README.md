@@ -2,4 +2,4 @@
 
 ## Welcome to 尹国通
 
-访问 `[Guotong Yin] (https://YGTong.github.io)`
+访问 [https://YGTong.github.io](https://YGTong.github.io)
